@@ -16,8 +16,8 @@ This code serves the purpose of showcasing how to create permutations of a list 
 1. Clone the repository:
 
    ```bash
-  https://github.com/MaheshHatwal/assessment
-   ```
+  [[https://github.com/MaheshHatwal/assessment](https://github.com/MaheshHatwal/ML)
+   ```](https://github.com/MaheshHatwal/ML/)
 
 2. Run the script:
 
@@ -67,7 +67,7 @@ The purpose of this code is to demonstrate how to train a convolutional neural n
 1. Clone the repository:
 
    ```bash
-   https://github.com/MaheshHatwal/assessment
+ [  https://github.com/MaheshHatwal/assessment](https://github.com/MaheshHatwal/ML/)
    ```
 
 2. Install the required libraries :
